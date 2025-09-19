@@ -8,5 +8,4 @@ You can add tasks, view them, and remove them easily from the terminal.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   
-https://github.com/MuskanYadav-AI/To-do-list.git
+   https://github.com/MuskanYadav-AI/To-do-list.git
